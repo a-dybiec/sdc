@@ -1,80 +1,159 @@
 ---
-id: zalecenie-stosowanie-etr
-title: Stosowanie tekstu łatwego do czytania i zrozumienia (ETR)
+id: zalecenie-dostepna-komunikacja-prosty-jezyk-etr
+title: Stosowanie prostego języka oraz tekstu łatwego do czytania i zrozumienia (ETR) w komunikacji organizacji
+sidebar_label: Dostępna komunikacja
 sidebar_position: 0
-sidebar_label: Projekt zalecenia
-keywords: [tekst łatwy do czytania,ETR,komunikacja]
-tags: [tekst łatwy do czytania,ETR,komunikacja]
-opracowanie: Anna Dybiec
-wspolpraca: Anna Bizub-Jechna
+keywords: [prosty język, ETR, dostępność komunikacyjna, komunikacja inkluzywna]
+tags: [prosty język, ETR, komunikacja]
+opracowanie: Edyta Boratyńska-Karpiej, Anna Dybiec, Anna Bizub-Jechna
 data_zgloszenia: 6 sierpnia 2025 r.
-ostatnia_aktualizacja: 24 września 2025 r.
-wersja_robocza: true
+data_aktualizacji: 3 kwietnia 2026 r.
+wersja: true
 ---
 
-## Zalecenie
 
-Organizacja stosuje teksty łatwe do czytania i zrozumienia (ETR), jako uzupełniającą formę komunikacji i przekazywania informacji.
+## 1. Cel zalecenia
 
-## Rekomendacje
+Celem zalecenia jest zapewnienie, że komunikacja organizacji jest zrozumiała dla wszystkich odbiorców poprzez systemowe stosowanie prostego języka jako standardu oraz tekstu łatwego do czytania i zrozumienia (ETR) jako formy uzupełniającej.
 
-### Zakres stosowania ETR
+---
 
-Rekomenduje się, aby teksty ETR były dodawane do standardowych komunikatów, w szczególności do:
+## 2. Zalecenie
 
-- podstawowych informacji o organizacji, jej strukturze i zakresie działania,
-- opisu realizowanych usług lub zadań organizacji,
-- informacji alarmowych, dotyczących życia i zdrowia,
-- sposobu i zasad kontaktu z organizacją,
-- najważniejszych uchwał, zarządzeń, procedur, regulaminów, uproszczonych streszczeń do dokumentów znacznych rozmiarów (m.in. strategii rozwoju, polityki regionalne, programy strategiczne itp.).
+**Organizacja ustanawia i wdraża standard dostępnej komunikacji, oparty na stosowaniu prostego języka jako podstawowej formy przekazu oraz tekstu łatwego do czytania i zrozumienia (ETR) jako formy uzupełniającej, wraz z procedurą tworzenia, testowania i publikowania treści.**
 
- 
+---
 
-### Etapy wdrażania ETR
+## 3. Rekomendacje
 
-1. **Wyznaczenie jednostki/ pracownika odpowiedzialnego za wdrożenie** i koordynowanie działań związanych z wdrażaniem ETR (np. działu ds. dostępności, koordynatora dostępności, działu komunikacji, itp.).
-2. **Zapewnienie nabycia lub podniesienia kompetencji** lub kwalifikacji w zakresie stosowania ETR jednostki/ pracownika odpowiedzialnego za wdrożenie i koordynowanie działań związanych z wdrażaniem ETR w organizacji.
-3. **Wyposażenie jednostki/ pracownika** w „skrócony poradnik tworzenia tekstów w ETR”.
-4. **Opracowanie wewnętrznej procedury tworzenia i publikowania tekstów w ETR** (m.in. kto i w jakim terminie zgłasza potrzebę przygotowania tekstów w ETR, jaki jest czas potrzebny na przygotowanie i testowanie poprawności treści w ETR, wskazanie katalogu testerów treści w ETR). Procedura może być częścią polityki dostępności cyfrowej organizacji/ podmiotu.
-5. **Współpraca z przedstawicielami grup docelowych** – testowanie treści ETR z udziałem osób z niepełnosprawnością intelektualną lub innymi użytkownikami końcowymi, w celu weryfikacji zrozumiałości materiału.
-6. **Stopniowe wdrażanie ETR** - rozpoczęcie od najważniejszych informacji i dokumentów, a następnie rozszerzanie zakresu na dalsze obszary w miarę możliwości organizacyjnych.
-7. **Zapewnienie dostępności cyfrowej** – treści ETR publikowane online powinny być zgodne z wymaganiami ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+### 3.1. Model dostępnej komunikacji
 
-## Podstawa prawna
+Organizacja przyjmuje następujący model komunikacji:
 
-Art. 6 pkt 3 lit. c) Ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2024 r. poz. 1411)
+- **prosty język** – jako standard obowiązujący we wszystkich formach komunikacji,
+- **tekst łatwy do czytania i zrozumienia (ETR)** – jako forma uzupełniająca, stosowana w przypadkach, gdy prosty język nie zapewnia wystarczającej zrozumiałości.
 
+ETR nie zastępuje standardowych treści, lecz stanowi ich równoległą, uproszczoną wersję.
 
-## Uzasadnienie
+---
 
-Wdrażanie tekstu łatwego do czytania i zrozumienia (ETR) jest odpowiedzią na potrzebę zapewnienia równego dostępu do informacji wszystkim osobom – niezależnie od ich poziomu sprawności poznawczej, edukacyjnej czy językowej. Podmioty publiczne i inne organizacje mają obowiązek podejmowania działań na rzecz dostępności informacyjno-komunikacyjnej. Wynika to m.in. z zasady projektowania inkluzywnego oraz Ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
+### 3.2. Zakres stosowania prostego języka
 
-ETR (ang. _easy to read_) to standaryzowana forma prezentowania treści, której celem jest umożliwienie zrozumienia przekazu osobom mającym trudności z czytaniem, przetwarzaniem informacji lub posługiwaniem się językiem urzędowym. Do grup, które szczególnie korzystają z tekstów ETR, należą m.in. osoby z niepełnosprawnością intelektualną, osoby neuroatypowe, seniorzy, osoby z trudnościami w uczeniu się oraz cudzoziemcy uczący się języka polskiego. Brak zrozumienia treści, przepisów, formularzy czy informacji o usługach stanowi poważną barierę w dostępie do wsparcia i uczestnictwa społecznego na równi ze wszystkimi.
+Zasady prostego języka stosuje się w szczególności w:
 
-Publikowanie uproszczonych wersji najważniejszych treści w ETR:
+- korespondencji z użytkownikami (pisma, e-maile, odpowiedzi na wnioski),
+- treściach publikowanych na stronach internetowych i w mediach społecznościowych,
+- opisach usług publicznych i procedur,
+- instrukcjach wypełniania formularzy,
+- materiałach informacyjnych, edukacyjnych i szkoleniowych,
+- komunikacji wewnętrznej kierowanej do pracowników.
 
+---
+
+### 3.3. Zakres stosowania ETR
+
+Teksty ETR przygotowuje się w szczególności dla:
+
+- podstawowych informacji o organizacji i sposobach kontaktu,
+- opisów usług publicznych i sposobu ich realizacji,
+- informacji dotyczących praw i obowiązków użytkowników,
+- komunikatów dotyczących zdrowia, bezpieczeństwa i sytuacji kryzysowych,
+- najważniejszych dokumentów (np. strategii, regulaminów, uchwał) – w formie uproszczonych streszczeń.
+
+---
+
+### 3.4. System wdrożenia
+
+Organizacja:
+
+1. **Wyznacza odpowiedzialność** za wdrożenie i utrzymanie standardu dostępnej komunikacji (np. koordynator dostępności, zespół ds. komunikacji).
+2. **Opracowuje standard prostego języka**, obejmujący:
+   - zasady redagowania treści,
+   - przykłady dobrych praktyk,
+   - listę najczęstszych błędów i ich poprawnych odpowiedników.
+3. **Opracowuje procedurę tworzenia treści ETR**, określającą:
+   - sposób identyfikowania potrzeby przygotowania ETR,
+   - proces tworzenia i weryfikacji treści,
+   - zasady publikacji i aktualizacji.
+4. **Zapewnia rozwój kompetencji pracowników**, w szczególności:
+   - szkolenia z prostego języka,
+   - szkolenia z tworzenia i testowania ETR.
+5. **Udostępnia narzędzia i materiały wspierające**, takie jak:
+   - poradniki,
+   - checklisty,
+   - wzory dokumentów,
+   - słowniki prostych sformułowań.
+6. **Wdraża testowanie zrozumiałości treści**, w tym:
+   - konsultacje z użytkownikami,
+   - testy z udziałem osób z niepełnosprawnością.
+7. **Wdraża rozwiązania stopniowo**, rozpoczynając od najważniejszych informacji i usług.
+
+---
+
+### 3.5. Integracja z systemem zarządzania dostępnością
+
+Standard dostępnej komunikacji powinien być:
+
+- częścią polityki dostępności organizacji,
+- powiązany z procesami tworzenia i publikowania informacji,
+- uwzględniony w projektowaniu i realizacji usług publicznych,
+- stosowany również w systemach informatycznych wykorzystywanych przez pracowników.
+
+---
+
+### 3.6. Wymagania jakościowe
+
+Organizacja zapewnia, że:
+
+- treści są zrozumiałe dla odbiorcy docelowego,
+- struktura i forma treści spełniają wymagania dostępności cyfrowej,
+- treści ETR są testowane z udziałem osób z niepełnosprawnością intelektualną,
+- publikowane materiały są zgodne z obowiązującymi przepisami dotyczącymi dostępności cyfrowej.
+
+---
+
+## 4. Uzasadnienie
+
+Brak zrozumiałości informacji stanowi jedną z najczęstszych barier w dostępie do usług publicznych. Nawet formalnie dostępne treści mogą być w praktyce niedostępne, jeśli są napisane językiem trudnym, specjalistycznym lub niejednoznacznym.
+
+Stosowanie prostego języka:
+
+- umożliwia szybsze i poprawne zrozumienie informacji,
+- ogranicza liczbę błędów i nieporozumień,
+- zmniejsza obciążenie organizacji związane z obsługą zapytań i wyjaśnień.
+
+Tekst łatwy do czytania i zrozumienia (ETR):
+
+- zapewnia dostęp do informacji osobom z największymi trudnościami poznawczymi,
 - zwiększa samodzielność użytkowników,
-- wspiera niezależne podejmowanie decyzji,
-- poprawia przejrzystość działań instytucji,
-- buduje zaufanie do organizacji jako otwartej i inkluzywnej.
+- umożliwia podejmowanie świadomych decyzji.
 
-Stosowanie ETR nie zastępuje standardowych treści – jest ich uzupełnieniem, zgodnym z ideą równoległej, wielokanałowej komunikacji dostosowanej do zróżnicowanych potrzeb odbiorców.
+Łączne stosowanie prostego języka i ETR tworzy system komunikacji inkluzywnej, który odpowiada na zróżnicowane potrzeby odbiorców i wspiera realizację zasady równego dostępu do informacji.
 
-Wdrożenie tekstu łatwego do czytania i zrozumienia to krok w stronę nowoczesnej, odpowiedzialnej organizacji, która respektuje prawa wszystkich obywateli i działa na rzecz rzeczywistej dostępności – funkcjonalnej i komunikacyjnej, a nie tylko formalnej.  
+---
 
+## 5. Podstawy prawne
 
-## Źródła, opracowania
+- Art. 6 pkt 3 lit. c) ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2024 r. poz. 1411)
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych
+- Konwencja ONZ o prawach osób z niepełnosprawnościami (CRPD)
+
+---
+
+## 6. Źródła i opracowania
 
 - [Jak przygotować dokumenty w prostym języku i tekście łatwym do czytania i zrozumienia - wytyczne](https://wsparcie.um.warszawa.pl/documents/67381/63310733/Jak+przygotowywa%C4%87+dokumenty+w+prostym+j%C4%99zyku+i+ETR+-+wytyczne.pdf)
-- [Tekst łatwy do czytania i zrozumienia. Instrukcja](https://zpe.gov.pl/b/tekst-latwy-do-czytania-i-zrozumienia-instrukcja/P17Ib7LYC)
-- [Poradnik dla autorów tekstów łatwych do czytania i rozumienia](https://cdn.innowacjespoleczne.pl/app/public/docs/innovations/14869/1.%20Poradnik%20dla%20autor%C3%B3w%20tekst%C3%B3w.pdf)
 - [Komunikacja dla wszystkich](https://www.power.gov.pl/media/13597/informacja-dla-wszystkich.pdf)
 - [Prosty język: jak tworzyć treści dostępne cyfrowo?](https://kompetencjecyfrowe.gov.pl/aktualnosci/wpis/prosty-jezyk-jak-tworzyc-tresci-dostepne-cyfrowo)
+- [Standardy tekstu łatwego do czytania i zrozumienia (ETR)](https://niepelnosprawni.gov.pl/publikacja-opracowania-standardow-tekstu-latwego-do-czytania-i-zrozumienia-etr/)
 - [Easy-to-read information is easier to understand](https://www.inclusion-europe.eu/easy-to-read/)
+- [Tekst łatwy do czytania i zrozumienia. Instrukcja (ZPE)](https://zpe.gov.pl/b/tekst-latwy-do-czytania-i-zrozumienia-instrukcja/P17Ib7LYC)
+- [Poradnik dla autorów tekstów łatwych do czytania i rozumienia (POWER)](https://cdn.innowacjespoleczne.pl/app/public/docs/innovations/14869/1.%20Poradnik%20dla%20autor%C3%B3w%20tekst%C3%B3w.pdf)
 
-## Historia wersji
+## 7. Historia wersji
 
 | **Wersja** | **Autor** | **Data** | **Opis zmian** |
 | --- | --- | --- | --- |
 | RC | Anna Dybiec, Anna Bizub-Jechna | 6.08.2025 | Projekt – kandydat do wydania |
-
+| RC | Edyta Boratyńska-Karpiej | 26.03.2026 | Projekt – kandydat do wydania |
+| RC | zespół | 4.04.2026 | Projekt – kandydat do wydania |
