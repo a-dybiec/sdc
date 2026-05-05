@@ -7,7 +7,7 @@ keywords: [prosty język, ETR, dostępność komunikacyjna, komunikacja inkluzyw
 tags: [prosty język, ETR, komunikacja]
 opracowanie: Edyta Boratyńska-Karpiej, Anna Dybiec, Anna Bizub-Jechna
 data_zgloszenia: 6 sierpnia 2025 r.
-data_aktualizacji: 3 kwietnia 2026 r.
+data_aktualizacji: 5 maja 2026 r.
 wersja: true
 ---
 
